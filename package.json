@@ -2,9 +2,8 @@
   "name": "restful-api-with-node.js-express-mongodb",
   "version": "1.0.0",
   "description": "Restful Api With Node.js Express &amp; MongoDB",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "node server.js",
     "dev": "nodemon server.js"
   },
